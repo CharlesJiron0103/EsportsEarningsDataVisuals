@@ -28,7 +28,7 @@ Follow up: This plot helps understand the different genres in terms of specific 
 
 Follow up: This plot helps understand the different genres in terms of specific release date range by  range of 2,000 to 40,000 Online Earnings.To establish this visual I created a new data sets that has filter values of release dates between 2000-2005 and Online Earnings "$2,000 - $40,000". It's important because it helps us establish which genre from a specific year range has the most Online Earnings from the various types of genre. The only difference between the pie chart and scatter plot is that the scatter plot gives us a more specific visual of each earnings in a given date. For example, the genre of first-person shooting in 2001 earn a grand total of $40,000 on Online Earnings.
 
-#Fig 4: Line Plot:
+# Fig 4: Line Plot:
 ## X: Online Earnings
 ## Y: Release Date
 ## Color: Genre
